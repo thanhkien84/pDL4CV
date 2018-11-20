@@ -1,10 +1,6 @@
 # pDL4CV
 Practical Deep Learning for Computer Vision course
 
-Kien Nguyen
-
-k.nguyenthanh@qut.edu.au
-
 Nov 2018
 
 Week 3: Object Recognition
