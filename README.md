@@ -13,7 +13,7 @@ Week 4: Object Detection
       Transfer Learning
       AWS
 
-Week 5: GAN 
-      SSD
+Week 5: Generative Adversarial Networks 
+      AWS
       GAN
 
